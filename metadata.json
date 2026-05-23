@@ -1,0 +1,6 @@
+{
+  "name": "Dapure Cakra",
+  "description": "Premium catering and food service in Purwokerto, Central Java, Indonesia, offering high-quality catering packages, snack boxes, bolen, brownies, and tumpeng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
